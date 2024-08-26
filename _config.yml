@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhiyu Jiang / Persional Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhiyu Jiang"
 description              : &description "personal description"
 url                      : https://zhiyujiang1.github.io/academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -34,10 +34,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-5485-2762"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Zhiyu-Jiang-12
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
