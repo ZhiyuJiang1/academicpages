@@ -1,5 +1,5 @@
 ---
-title: "Dual symmetry classification of non-Hermitian systems and ℤ2 point-gap topology of a nonunitary quantum walk"
+title: "Dual symmetry classification of non-Hermitian systems and $Z_2$ point-gap topology of a nonunitary quantum walk"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
