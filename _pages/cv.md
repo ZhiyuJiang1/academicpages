@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D of Engineering, Hokkaido University, 2022.4-
+* Ph.D of Engineering, Hokkaido University, 2022.4-now
 * Research student, Hokkaido University, 2021.10-2022.03
 * M.S. of Science, Dalian University of Technology, 2018.09-2021.06
-* B.S. in Science, Northeastern University (China), 2014.10-2018.06
+* B.S. of Science, Northeastern University (China), 2014.10-2018.06
 
 Work experience
 ======
