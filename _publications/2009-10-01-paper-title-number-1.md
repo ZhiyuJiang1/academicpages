@@ -1,15 +1,14 @@
 ---
-title: "Dual symmetry classification of non-Hermitian systems and $Z_2 $ point-gap topology of a nonunitary quantum walk"
+title: "Dual symmetry classification of non-Hermitian systems and Z2 point-gap topology of a nonunitary quantum walk"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-06-07
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+venue: 'Physical Review B'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.235408'
 citation: 'Z. Jiang, R. Okamoto, and H. Obuse, Phys. Rev. B 109, 235408 (2024).
 '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Non-Hermitian systems exhibit richer topological properties compared to their Hermitian counterparts. It is well known that non-Hermitian systems have been classified based on either the symmetry relations for non-Hermitian Hamiltonians or the symmetry relations for nonunitary time-evolution operators in the context of Floquet topological phases. In this work, we propose that non-Hermitian systems can always be classified in two ways; a non-Hermitian system can be classified using the symmetry relations for non-Hermitian Hamiltonians or time-evolution operator regardless of the Floquet topological phases or not. We refer to this as dual symmetry classification. To demonstrate this, we successfully introduce a nonunitary quantum walk that exhibits point gaps with a Z2 point-gap topological phase applying the dual symmetry classification and treating the time-evolution operator of this quantum walk as the non-Hermitian Hamiltonian.
