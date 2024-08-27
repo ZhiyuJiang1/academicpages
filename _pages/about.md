@@ -15,5 +15,7 @@ Links
 * [Hokkaido University](https://www.hokudai.ac.jp/)
   * [Faculty / Graduate School of Engineering](https://www.eng.hokudai.ac.jp/graduate/)
     * [Division of Applied Physics](https://applphys.net/div/)
-        *[Laboratory of Condensed Matter Physics](https://subutu-ap.eng.hokudai.ac.jp/index.html)
+      * [Laboratory of Condensed Matter Physics](https://subutu-ap.eng.hokudai.ac.jp/index.html)
+      * [Laboratory of SolidStates Physics](https://ssp-ap.eng.hokudai.ac.jp/)
+      * [Laboratory of Theoretical Solid State Physics](https://www.eng.hokudai.ac.jp/labo/tssp/index.html)
       
