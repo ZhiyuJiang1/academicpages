@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-07-16-talk-Obuse
 venue: "META 2024"
-date: 2023-07-16
+date: 2024-07-16
 location: "Toyama, Japan"
 ---
 
