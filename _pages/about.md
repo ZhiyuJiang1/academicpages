@@ -13,4 +13,4 @@ I am a PhD student in the School of Engineering at [Hokkaido University](https:/
 Links
 ------
 * [Hokkaido University](https://www.hokudai.ac.jp/)
-  * [Faculty](https://www.eng.hokudai.ac.jp/graduate/)
+  * [Faculty, Graduate School of Engineering](https://www.eng.hokudai.ac.jp/graduate/)
