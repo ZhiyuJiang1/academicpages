@@ -16,12 +16,20 @@ Education
 * M.S. of Science, Dalian University of Technology, 2018.09-2021.06
 * B.S. of Science, Northeastern University (China), 2014.10-2018.06
 
-Work experience
+Awards and Scholarships
 ======
-* Spring 2020: Teaching Assistant
-  * Dalian University of Technology
-  * Subjects: Quantum Mechanics II
-  * Supervisor: Prof. Jiasen Jin
+
+*Third Prize in Poster Presentation at QuIST-VIII Conference
+  * QuIST-VIII Organizing Committee
+  * August 2024
+
+* Hokkaido University EXEX Doctoral Fellowship
+  * Hokkaido University
+  * April 2024 - March 2025
+
+* Hokkaido University DX Doctoral Fellowship
+  * Hokkaido University
+  * April 2022 - March 2024
 
 Skills
 ======
