@@ -19,7 +19,7 @@ Education
 Awards and Scholarships
 ======
 
-*Third Prize in Poster Presentation at QuIST-VIII Conference
+* Third Prize in Poster Presentation at QuIST-VIII Conference
   * QuIST-VIII Organizing Committee
   * August 2024
 
