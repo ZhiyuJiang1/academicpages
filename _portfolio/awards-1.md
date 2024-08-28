@@ -1,6 +1,5 @@
 ---
 title: "Third Prize in Poster Presentation at QuIST-VIII Conference"
-excerpt: "QuIST-VIII Organizing Committee, August 2024<br/><img src='/images/20240804.png'>"
+excerpt: "QuIST-VIII Organizing Committee, August 2024<br/><img src='{{ '/images/20240804.png' | relative_url }}'>"
 collection: portfolio
 ---
-
