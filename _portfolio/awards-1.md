@@ -4,4 +4,4 @@ excerpt: "QuIST-VIII Organizing Committee, August 2024"
 collection: portfolio
 ---
 
-![my screenshot](/images/20240804.png)
+<br/><img src='/images/20240804.png'>
