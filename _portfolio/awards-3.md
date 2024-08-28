@@ -4,4 +4,4 @@ excerpt: "Hokkaido University, April 2022 - March 2024"
 collection: portfolio
 ---
 
-[More information here](https://sites.google.com/eis.hokudai.ac.jp/exexphd-fellow/home?authuser=0)
+[More information here](https://sites.google.com/eis.hokudai.ac.jp/dxphd-fellow/home)
