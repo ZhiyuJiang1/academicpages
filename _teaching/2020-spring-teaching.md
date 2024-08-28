@@ -1,4 +1,4 @@
-dddd---
+---
 title: "Quantum Mechanics II"
 collection: teaching
 type: "Teaching Assistant"
