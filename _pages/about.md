@@ -16,5 +16,11 @@ Links
   * [Faculty / Graduate School of Engineering](https://www.eng.hokudai.ac.jp/graduate/)
     * [Division of Applied Physics](https://applphys.net/div/)
       * [Laboratory of Condensed Matter Physics](https://subutu-ap.eng.hokudai.ac.jp/index.html)
-      * [Laboratory of SolidStates Physics](https://ssp-ap.eng.hokudai.ac.jp/)
+      * [Laboratory of Solid States Physics](https://ssp-ap.eng.hokudai.ac.jp/)
       
+* [Dalian University of Technology](https://www.dlut.edu.cn/)
+  * [School of Physics](https://physics.dlut.edu.cn/)
+    * [Institute of Theoretical Physics](https://itp.dlut.edu.cn/index.htm)
+   
+* [Northeastern University (China)](https://www.neu.edu.cn/)
+  * [College of Science](http://cos.neu.edu.cn/)
