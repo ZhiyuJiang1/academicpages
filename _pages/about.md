@@ -12,8 +12,8 @@ I am a PhD student in the School of Engineering at [Hokkaido University](https:/
 
 Connect me
 ------
-Email: zhiyu.jiang.t7@elms.hokudai.ac.jp \\
-Address: Faculty, Graduate School and School of Engineering Hokkaido University \\
+Email: zhiyu.jiang.t7@elms.hokudai.ac.jp  
+Address: Faculty, Graduate School and School of Engineering Hokkaido University  
          Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan
 
 Links
