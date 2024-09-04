@@ -10,6 +10,12 @@ redirect_from:
 
 I am a PhD student in the School of Engineering at [Hokkaido University](https://www.hokudai.ac.jp/), located in Sapporo, Japan. Originally from Shenyang, China, I specialize in theoretical condensed matter physics, focusing on topics such as open quantum systems, non-Hermitian systems, quantum walks, and topology. During my PhD studies, I have been particularly engaged in exploring the topological properties of non-Hermitian systems and simulating these effects using non-unitary quantum walks. I am also deeply interested in quantum computing. My doctoral research is supervised by Professor Hideaki Obuse. I can communicate in English, Chinese, and Japanese, and I look forward to engaging in diverse academic and cultural exchanges.
 
+Connect me
+------
+Email: zhiyu.jiang.t7@elms.hokudai.ac.jp
+Address: Faculty, Graduate School and School of Engineering Hokkaido University
+         Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan
+
 Links
 ------
 * [Hokkaido University](https://www.hokudai.ac.jp/)
