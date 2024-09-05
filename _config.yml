@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhiyu Jiang / Persional Homepage"
 title_separator          : "-"
-name                     : &name "Zhiyu Jiang (姜 治宇)"
+name                     : &name "Zhiyu Jiang"
 description              : &description "personal description"
 url                      : https://zhiyujiang1.github.io/academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
