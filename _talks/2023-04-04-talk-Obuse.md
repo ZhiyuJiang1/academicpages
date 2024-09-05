@@ -39,9 +39,9 @@ Geonhwi Hwang, Zhiyu Jiang, and Hideaki Obuse
 ある。この問題に対し、任意の数値計算精度を指定することが可能な任意精度演算を標準サポー
 トするプログラミング言語 Julia を用いたアプローチについても言及する。  
 
-[1] K. Mochizuki, D. Kim, and H. Obuse, Phys. Rev. A 93, 062116 (2016).
-[2] L. Xia, X. Zhan, Z.H. Bian, et al., Nature Phys. 13, 1117 (2017).
-[3] 小布施秀明, 望月健, 金多景, 川上則雄, 日本物理学会誌 74, 780 (2019).
+[1] K. Mochizuki, D. Kim, and H. Obuse, Phys. Rev. A 93, 062116 (2016).  
+[2] L. Xia, X. Zhan, Z.H. Bian, et al., Nature Phys. 13, 1117 (2017).  
+[3] 小布施秀明, 望月健, 金多景, 川上則雄, 日本物理学会誌 74, 780 (2019).  
 [4] Geonhwi Hwang and Hideaki Obuse (in preparation).  
 
 [More information here](https://mdcl.issp.u-tokyo.ac.jp/scc/news/4449)
