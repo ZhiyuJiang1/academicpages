@@ -7,7 +7,8 @@ venue: "物性研究所スパコン共同利用・CCMS合同研究会「計算�
 date: 2023-04-04
 location: "The University of Tokyo, Kashiwa, Japan"
 ---
-Geonhwi Hwang, Zhiyu Jiang, and Hideaki Obuse  \
+Geonhwi Hwang, Zhiyu Jiang, and Hideaki Obuse  
+
 近年、開放量子系を記述する非エルミート系におけるトポロジカル相に関する研究が盛んに行
 われている。非エルミート系では、従来のエルミート系と比較し、対称性クラスが増加したり、
 エネルギー・ギャップが、エルミート系のエネルギーギャップに連続変形可能なライン・ギャッ
