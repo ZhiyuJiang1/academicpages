@@ -7,5 +7,5 @@ venue: "META 2024"
 date: 2024-07-16
 location: "Toyama, Japan"
 ---
-
+Zhiyu Jiang, Geonhwi Hwang and Hideaki Obuse  
 [More information here](https://metaconferences.org/META24/index.php/META/index)
