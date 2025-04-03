@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, Hokkaido University, 2022.4-now
+* Ph.D in Physics, Hokkaido University, 2022.04-2025.03
 * Research student, Hokkaido University, 2021.10-2022.03
 * M.S. in Physics, Dalian University of Technology, 2018.09-2021.06
 * B.S. in Physics, Northeastern University (China), 2014.10-2018.06
