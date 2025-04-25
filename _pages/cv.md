@@ -37,7 +37,6 @@ Awards and Scholarships
 
 Skills
 ======
-* College English Test Band 4
 * TOEIC Certified (Competent in Workplace English)
 * Japanese-Language Proficiency Test (JLPT) N2 Level 
 
