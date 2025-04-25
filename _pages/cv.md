@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Research Experience
+======
+* Academic Researcher, Hokkaido University, 2025.05-
+* Research student, Hokkaido University, 2021.10-2022.03
+
 Education
 ======
 * Ph.D in Physics, Hokkaido University, 2022.04-2025.03
