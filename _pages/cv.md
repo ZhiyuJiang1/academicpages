@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,14 +12,13 @@ redirect_from:
 Research Experience
 ======
 * Academic Researcher, Hokkaido University, 2025.05-
-* Research student, Hokkaido University, 2021.10-2022.03
+* Research Student, Hokkaido University, 2021.10-2022.03
 
 Education
 ======
-* Ph.D in Physics, Hokkaido University, 2022.04-2025.03
-* Research student, Hokkaido University, 2021.10-2022.03
-* M.S. in Physics, Dalian University of Technology, 2018.09-2021.06
-* B.S. in Physics, Northeastern University (China), 2014.10-2018.06
+* Ph.D in Physics, Graduate School of Engineering, Hokkaido University, 2022.04-2025.03
+* M.S. in Physics, Institute of Theoretical Physics, Dalian University of Technology, 2018.09-2021.06
+* B.S. in Physics, College of Science, Northeastern University (Shenyang), 2014.10-2018.06
 
 Awards and Scholarships
 ======
