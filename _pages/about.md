@@ -12,7 +12,7 @@ I am an academic researcher in the Division of Applied Physics at the Graduate S
 
 Connect me
 ------
-Email: zhiyu.jiang.t7@elms.hokudai.ac.jp  
+Email: zhiyu.jiang@eng.hokudai.ac.jp  
 
 Institution: Graduate School of Engineering, Hokkaido University
   
