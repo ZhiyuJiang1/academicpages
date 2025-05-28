@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Zhiyu Jiang"
 description              : &description "personal description"
 url                      : https://zhiyujiang1.github.io/academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/academicpages" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -344,7 +344,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
