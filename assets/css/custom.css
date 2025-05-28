@@ -1,0 +1,22 @@
+/* === 全站字体与背景优化 === */
+body {
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+  background-color: #fcfcfc;
+  color: #111;
+}
+
+/* 统一页面内容宽度 */
+.page__content {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+/* 链接样式 */
+a {
+  color: #0056d2;
+  transition: all 0.2s ease-in-out;
+}
+a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
