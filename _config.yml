@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhiyu Jiang / Persional Homepage"
+title                    : "Zhiyu Jiang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhiyu Jiang"
 description              : &description "personal description"
