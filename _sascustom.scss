@@ -1,0 +1,48 @@
+/* === 全站字体与背景优化 === */
+body {
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+  background-color: #fcfcfc;
+  color: #111;
+}
+
+/* 页面最大宽度限制 */
+.page__content {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+/* 链接样式美化 */
+a {
+  color: #0056d2;
+  transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+/* 头像圆角 + 阴影 */
+.author__avatar img {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 左边栏卡片风格 */
+.sidebar {
+  background-color: #f8f9fa;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+/* 标题加粗美化 */
+h1, h2, h3 {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+/* 链接和按钮轻微动效 */
+a:hover, button:hover {
+  transform: scale(1.02);
+  transition: 0.2s ease-in-out;
+}
