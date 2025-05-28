@@ -1,12 +1,7 @@
 ---
-layout: archive
+layout: collection
 title: "Awards"
 permalink: /awards/
+collection: awards
 author_profile: true
 ---
-
-{% include base_path %}
-
-{% for post in site.awards %}
-  {% include archive-single.html %}
-{% endfor %}
