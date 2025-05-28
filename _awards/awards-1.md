@@ -4,3 +4,4 @@ excerpt: "QuIST-VIII Organizing Committee, August 2024"
 collection: awards
 ---
 
+Received this award during the 8th QuIST conference for outstanding presentation.
