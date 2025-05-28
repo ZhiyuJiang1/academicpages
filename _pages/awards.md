@@ -5,3 +5,5 @@ permalink: /awards/
 collection: awards
 author_profile: true
 ---
+
+Found {{ site.awards | size }} items.
