@@ -344,7 +344,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
