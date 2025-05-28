@@ -20,3 +20,28 @@ a:hover {
   color: #007bff;
   text-decoration: underline;
 }
+
+/* 头像圆角加阴影 */
+.author__avatar img {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 左栏整体美化 */
+.sidebar {
+  background-color: #f8f9fa;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+/* 页面标题加粗美化 */
+h1, h2, h3 {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+/* 链接与按钮小动效 */
+a:hover, button:hover {
+  transform: scale(1.02);
+  transition: 0.2s ease-in-out;
+}
