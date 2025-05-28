@@ -23,7 +23,7 @@ Address: A2-66 Laboratory of Condensed Matter Physics
 Links
 ------
 * [The University of Osaka](https://www.osaka-u.ac.jp/ja)
-  * [Center for Quantum Information and Quantum Biology](https://qiqb.osaka-u.ac.jp/)
+  * [Center for Quantum Information and Quantum Biology (QIQB)](https://qiqb.osaka-u.ac.jp/)
   
 * [Hokkaido University](https://www.hokudai.ac.jp/)
   * [Faculty / Graduate School of Engineering](https://www.eng.hokudai.ac.jp/graduate/)
