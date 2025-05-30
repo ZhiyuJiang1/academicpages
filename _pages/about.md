@@ -13,8 +13,8 @@ I am an academic researcher in the Division of Applied Physics at the Graduate S
 ## News
 
 <ul>
-  <li><strong>2025.05.30</strong> — Launched my new homepage</li>
-  <li><strong>2025.04.01</strong> — Joined Osaka University as a postdoc</li>
+  <li><strong>2025.05.13</strong> — Attended the Interdisciplinary Symposium on Quantum Information at Northeastern University (Shenyang), China.</li>
+  <li><strong>2025.03.25</strong> — Received Ph.D. degree from Hokkaido University.</li>
 </ul>
 
 
