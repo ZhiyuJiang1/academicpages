@@ -10,12 +10,13 @@ redirect_from:
 
 I am an academic researcher in the Division of Applied Physics at the Graduate School of Engineering, [Hokkaido University](https://www.hokudai.ac.jp/), located in Sapporo, Japan. Originally from Shenyang, China, I specialize in theoretical condensed matter physics, focusing on topics such as open quantum systems, non-Hermitian physics, quantum walks, and topological phases. During my previous studies, I have been particularly engaged in exploring the topological properties of non-Hermitian systems and simulating these effects using non-unitary quantum walks. I am also deeply interested in topological quantum computing. My doctoral research is supervised by [Prof. Hideaki Obuse](https://researchmap.jp/hideaki.obuse). I can communicate in English, Chinese, and Japanese, and I look forward to engaging in diverse academic and cultural exchanges.
 
-<section class="page__content" style="margin-top: 2em;">
-  <h2>News</h2>
-  {% for post in site.news limit: 5 %}
-    <p><strong>{{ post.date | date: "%Y.%m.%d" }}</strong> — {{ post.title }}</p>
-  {% endfor %}
-</section>
+## News
+
+<ul>
+  <li><strong>2025.05.30</strong> — Launched my new homepage</li>
+  <li><strong>2025.04.01</strong> — Joined Osaka University as a postdoc</li>
+</ul>
+
 
 Connect me
 ------
