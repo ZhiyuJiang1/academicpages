@@ -221,7 +221,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-    collections:
   news:
     output: true
     permalink: /news/:name/
