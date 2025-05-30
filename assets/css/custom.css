@@ -49,3 +49,12 @@ a:hover, button:hover {
 body {
   background-color: pink !important;
 }
+
+.nav__items {
+  justify-content: flex-start !important;
+  flex-wrap: wrap; // 避免挤出导航栏
+}
+
+.nav__items li {
+  margin-right: 1rem; // 或根据实际间距调整
+}
