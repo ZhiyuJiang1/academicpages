@@ -14,15 +14,14 @@ I am an academic researcher in the Division of Applied Physics at the Graduate S
 
 <ul>
   <li><strong>2025.05.13</strong> — Attended the Interdisciplinary Symposium on Quantum Information at Northeastern University (Shenyang), China.</li>
+  <li><strong>2025.05.01</strong> — Appointed as a Research Fellow at the Faculty of Engineering, Hokkaido University.</li>
   <li><strong>2025.03.25</strong> — Received Ph.D. degree from Hokkaido University.</li>
 </ul>
 
 <details>
   <summary style="cursor:pointer; font-weight: bold; margin-top: 0.5em;">Show more...</summary>
   <ul>
-    <li><strong>2024.12.15</strong> — Submitted my dissertation</li>
-    <li><strong>2024.08.28</strong> — Presented at QuIST-VIII</li>
-    <li><strong>2024.04.01</strong> — Started my final year of PhD</li>
+    <li><strong>2024.12.15</strong> — The News section is now available.</li>
     <!-- 可继续添加更多 -->
   </ul>
 </details>
