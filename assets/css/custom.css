@@ -58,3 +58,8 @@ body {
 .nav__items li {
   margin-right: 1rem; // 或根据实际间距调整
 }
+
+.greedy-nav .visible-links > li:last-child {
+  margin-left: unset !important;
+}
+
