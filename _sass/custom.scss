@@ -23,13 +23,13 @@ a:hover {
 }
 
 /* 头像圆角 + 阴影 */
-.author__avatar img {
-  width: 120px;
-  height: 120px;
+.sidebar .author__avatar img {
+  width: 120px !important;
+  height: 120px !important;
   object-fit: contain !important;
   border-radius: 0 !important;
-  background-color: white; /* 可选，防止有透明边缘 */
-  box-shadow: 0 0 3px rgba(0,0,0,0.1); /* 可选：轻微阴影美观 */
+  background-color: white !important;
+  box-shadow: 0 0 3px rgba(0,0,0,0.1);
 }
 
 /* 左边栏卡片风格 */
