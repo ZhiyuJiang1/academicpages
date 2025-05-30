@@ -24,10 +24,6 @@ a:hover {
 
 /* 头像圆角 + 阴影 */
 .author__avatar img {
-  border-radius: 50%;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-.author__avatar img {
   width: 120px;
   height: 120px;
   object-fit: contain !important;
