@@ -13,9 +13,9 @@ I am an academic researcher in the Division of Applied Physics at the Graduate S
 <h2>News</h2>
 
 <ul>
-  <li><strong>2025.05.13</strong> — Attended the Interdisciplinary Symposium on Quantum Information at Northeastern University (Shenyang), China.</li>
-  <li><strong>2025.05.01</strong> — Appointed as a Research Fellow at the Faculty of Engineering, Hokkaido University.</li>
-  <li><strong>2025.03.25</strong> — Received Ph.D. degree from Hokkaido University.</li>
+  <li><strong>2025.05.13</strong> — Attend the Interdisciplinary Symposium on Quantum Information at Northeastern University (Shenyang), China.</li>
+  <li><strong>2025.05.01</strong> — Appoint as a Research Fellow at the Faculty of Engineering, Hokkaido University.</li>
+  <li><strong>2025.03.25</strong> — Receive Ph.D. degree from Hokkaido University.</li>
 </ul>
 
 <details>
