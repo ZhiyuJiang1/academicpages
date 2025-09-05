@@ -29,13 +29,13 @@ I am an Appointed Researcher in the [Center for Quantum Information and Quantum 
 
 Connect me
 ------
-Email: jiang.zhiyu.qiqb@osaka-u.ac.jp 
+jiang.zhiyu.qiqb@osaka-u.ac.jp 
 
-Institution: Center for Quantum Information and Quantum Biology(QIQB), The University of Osaka
+Center for Quantum Information and Quantum Biology(QIQB), The University of Osaka
   
-Address: Toyonaka Co-Creation Building 707,  
-         1-2 Machikaneyama-cho,  
-         Toyonaka, Osaka [〒560-0053](https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E3%83%BB%E9%87%8F%E5%AD%90%E7%94%9F%E5%91%BD%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+Center+for+Quantum+Information+and+Quantum+Biology,+The+University+of+Osaka%EF%BC%88QIQB%EF%BC%89/@34.8026926,135.4560429,19.17z/data=!3m1!5s0x6000fa86f02220dd:0xff8a12b41cc013ed!4m6!3m5!1s0x6000fb00695fa84b:0x85cdf459e55340f4!8m2!3d34.8028335!4d135.4562557!16s%2Fg%2F11wbccjv98?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D), Japan
+Toyonaka Co-Creation Building 707,  
+1-2 Machikaneyama-cho,  
+Toyonaka, Osaka [〒560-0053](https://www.google.com/maps/place/%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E9%87%8F%E5%AD%90%E6%83%85%E5%A0%B1%E3%83%BB%E9%87%8F%E5%AD%90%E7%94%9F%E5%91%BD%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC+Center+for+Quantum+Information+and+Quantum+Biology,+The+University+of+Osaka%EF%BC%88QIQB%EF%BC%89/@34.8026926,135.4560429,19.17z/data=!3m1!5s0x6000fa86f02220dd:0xff8a12b41cc013ed!4m6!3m5!1s0x6000fb00695fa84b:0x85cdf459e55340f4!8m2!3d34.8028335!4d135.4562557!16s%2Fg%2F11wbccjv98?entry=ttu&g_ep=EgoyMDI1MDkwMi4wIKXMDSoASAFQAw%3D%3D), Japan
 
 Links
 ------
