@@ -11,7 +11,8 @@ redirect_from:
 
 Research Experience
 ======
-* Academic Researcher, Hokkaido University, 2025.05-
+* Appointed Researcher, The University of Osaka, 2025.07-Now
+* Academic Researcher, Hokkaido University, 2025.05-2025.06
 * Research Student, Hokkaido University, 2021.10-2022.03
 
 Education
