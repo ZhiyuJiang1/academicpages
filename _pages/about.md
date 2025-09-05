@@ -31,7 +31,8 @@ Connect me
 ------
 jiang.zhiyu.qiqb@osaka-u.ac.jp 
 
-Center for Quantum Information and Quantum Biology(QIQB), The University of Osaka
+Center for Quantum Information and Quantum Biology(QIQB),  
+The University of Osaka
   
 Toyonaka Co-Creation Building 707,  
 1-2 Machikaneyama-cho,  
