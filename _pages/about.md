@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Appointed Researcher in [Prof. Hiroshi Ueda](https://researchmap.jp/hiroshi_ueda)'s group at the [Center for Quantum Information and Quantum Biology(QIQB)](https://qiqb.osaka-u.ac.jp/), [The University of Osaka](https://www.osaka-u.ac.jp/ja). As part of Prof. Ueda’s project, “Quantum–Classical Integration Mediated by Tensor Networks” (テンソルネットワークの媒介する量子・古典融合), I investigate how tensor-network methods can deepen our understanding of quantum many-body phenomena and serve as powerful tools for quantum computation and quantum algorithms.
+I am currently an Appointed Researcher in [Prof. Hiroshi Ueda](https://researchmap.jp/hiroshi_ueda)'s group at the [Center for Quantum Information and Quantum Biology(QIQB)](https://qiqb.osaka-u.ac.jp/), [The University of Osaka](https://www.osaka-u.ac.jp/ja). As part of Prof. Ueda’s project, “Quantum-classical fusion mediated by tensor network” (テンソルネットワークの媒介する量子・古典融合), I investigate how tensor-network methods can deepen our understanding of quantum many-body phenomena and serve as powerful tools for quantum computation and quantum algorithms.
 
 My broader research interests lie in theoretical condensed matter physics, particularly in open quantum systems, non-Hermitian physics, quantum walks, and topological phases. In previous work, I studied the topological properties of non-Hermitian systems and simulated these effects using non-unitary quantum walks, in collaboration with my doctoral advisor, [Prof. Hideaki Obuse](https://researchmap.jp/hideaki.obuse).
 
