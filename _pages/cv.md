@@ -17,9 +17,9 @@ Research Experience
 
 Education
 ======
-* Ph.D in Physics, Graduate School of Engineering, Hokkaido University, 2022.04-2025.03
-* M.S. in Physics, Institute of Theoretical Physics, Dalian University of Technology, 2018.09-2021.06
-* B.S. in Physics, College of Science, Northeastern University (Shenyang), 2014.10-2018.06
+* Ph.D., Graduate School of Engineering, Hokkaido University, 2022.04-2025.03
+* M.S., Institute of Theoretical Physics, Dalian University of Technology, 2018.09-2021.06
+* B.S., College of Science, Northeastern University (Shenyang), 2014.10-2018.06
 
 Awards and Scholarships
 ======
