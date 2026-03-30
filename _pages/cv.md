@@ -111,16 +111,16 @@ redirect_from:
 
 ## Talks
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-<ul style="margin:0;">{% for post in site.talks reversed %}
+<div style="margin: 0.9rem 0 1.5rem 0; padding: 0.72rem 1.3rem 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
+<ul style="margin:0 0 0 0;">{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html  %}
 {% endfor %}</ul>
 </div>
 
 ## Teaching
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-<ul style="margin:0;">{% for post in site.teaching reversed %}
+<div style="margin: 0.9rem 0 1.5rem 0; padding: 0.72rem 1.3rem 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
+<ul style="margin:0 0 0 0;">{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 </div>
