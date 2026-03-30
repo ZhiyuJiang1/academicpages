@@ -2,7 +2,6 @@
 title: "The detection of Planck-scale physics facilitated by nonlinear quantum optics"
 collection: publications
 permalink: /publication/2025-10-09-detection-of-planck-scale-physics/
-excerpt: "A fully quantum model for measuring the nonstationary dynamics of an ng-mass mechanical resonator is proposed to probe Planck-scale physics, with sensitivity enhanced by nonlinear quantum optics."
 date: 2025-10-09
 venue: "arXiv preprint arXiv:2510.07844"
 category: preprints
