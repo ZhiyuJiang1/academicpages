@@ -14,42 +14,52 @@ My broader research interests lie in theoretical condensed matter physics, parti
 
 I am based in Toyonaka, Osaka, Japan, and originally from Shenyang, China. I work in English, Chinese, and Japanese, and I welcome academic communication across disciplines and cultures.
 
-## News
+<div style="margin: 1.2rem 0 1.8rem 0; padding: 0.9rem 1.1rem; border-left: 4px solid #5b8def; background: #f8fbff;">
+<strong>Research interests:</strong> Open quantum systems, non-Hermitian physics, quantum walks, tensor networks, and topological phases.
+</div>
+
+## Latest News
 
 <ul>
-  {% for item in site.data.news.items limit:5 %}
+  {% for item in site.data.news.items limit:3 %}
     <li><strong>{{ item.date }}</strong>: {{ item.text }}</li>
   {% endfor %}
 </ul>
 
-{% assign total_news = site.data.news.items | size %}
-{% if total_news > 5 %}
-<details>
-  <summary style="cursor:pointer; font-weight: bold; margin-top: 0.5em;">Earlier updates</summary>
-  <ul>
-    {% for item in site.data.news.items offset:5 %}
-      <li><strong>{{ item.date }}</strong>: {{ item.text }}</li>
-    {% endfor %}
-  </ul>
-</details>
-{% endif %}
+<p><a href="{{ base_path }}/news/">View all news →</a></p>
 
 ## Contact
 
+<div style="margin: 0.8rem 0 1.5rem 0; padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #fafafa;">
+<strong>Email</strong><br>
 jiang.zhiyu.qiqb@osaka-u.ac.jp
 
-Center for Quantum Information and Quantum Biology (QIQB)  
-The University of Osaka  
-Toyonaka Co-Creation Building 707  
-1-2 Machikaneyama-cho  
+<br><br>
+<strong>Address</strong><br>
+Center for Quantum Information and Quantum Biology (QIQB)<br>
+The University of Osaka<br>
+Toyonaka Co-Creation Building 707<br>
+1-2 Machikaneyama-cho<br>
 Toyonaka, Osaka 560-0053, Japan
+</div>
 
-## Links
+## Academic Links
 
-- [The University of Osaka](https://www.osaka-u.ac.jp/ja)
-  - [Center for Quantum Information and Quantum Biology (QIQB)](https://qiqb.osaka-u.ac.jp/)
-- [Hokkaido University](https://www.hokudai.ac.jp/)
-  - [Faculty / Graduate School of Engineering](https://www.eng.hokudai.ac.jp/graduate/)
-    - [Division of Applied Physics](https://applphys.net/div/)
-      - [Laboratory of Condensed Matter Physics](https://subutu-ap.eng.hokudai.ac.jp/index.html)
-      - [Laboratory of Solid States Physics](https://ssp-ap.eng.hokudai.ac.jp/)
+<div style="margin: 0.8rem 0 1rem 0; padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #fcfcfc;">
+<strong>Current affiliation</strong>
+<ul style="margin-top: 0.6rem; margin-bottom: 0;">
+  <li><a href="https://www.osaka-u.ac.jp/ja">The University of Osaka</a></li>
+  <li><a href="https://qiqb.osaka-u.ac.jp/">Center for Quantum Information and Quantum Biology (QIQB)</a></li>
+</ul>
+</div>
+
+<div style="margin: 0.8rem 0 1rem 0; padding: 1rem 1.2rem; border: 1px solid #e5e7eb; border-radius: 8px; background: #fcfcfc;">
+<strong>Academic background</strong>
+<ul style="margin-top: 0.6rem; margin-bottom: 0;">
+  <li><a href="https://www.hokudai.ac.jp/">Hokkaido University</a></li>
+  <li><a href="https://www.eng.hokudai.ac.jp/graduate/">Faculty / Graduate School of Engineering</a></li>
+  <li><a href="https://applphys.net/div/">Division of Applied Physics</a></li>
+  <li><a href="https://subutu-ap.eng.hokudai.ac.jp/index.html">Laboratory of Condensed Matter Physics</a></li>
+  <li><a href="https://ssp-ap.eng.hokudai.ac.jp/">Laboratory of Solid States Physics</a></li>
+</ul>
+</div>
