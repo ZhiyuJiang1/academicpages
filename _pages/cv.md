@@ -43,9 +43,30 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+### Journal Articles
+<ul>
+{% assign journal_articles = site.publications | where: 'category', 'manuscripts' | sort: 'date' | reverse %}
+{% for post in journal_articles %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+### Preprints
+<ul>
+{% assign preprints = site.publications | where: 'category', 'preprints' | sort: 'date' | reverse %}
+{% for post in preprints %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+### Conference Papers
+<ul>
+{% assign conference_papers = site.publications | where: 'category', 'conferences' | sort: 'date' | reverse %}
+{% for post in conference_papers %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
   
 Talks
 ======

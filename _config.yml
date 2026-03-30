@@ -20,12 +20,14 @@ author:
   researchgate           : "https://www.researchgate.net/profile/Zhiyu-Jiang-12"
 
 publication_category:
-  books:
-    title: "Books"
   manuscripts:
     title: "Journal Articles"
+  preprints:
+    title: "Preprints"
   conferences:
     title: "Conference Papers"
+  books:
+    title: "Books"
 
 teaser                   :
 breadcrumbs              : false
