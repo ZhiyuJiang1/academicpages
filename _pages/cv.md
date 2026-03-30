@@ -44,14 +44,6 @@ Skills
 Publications
 ======
 
-### Journal Articles
-<ul>
-{% assign journal_articles = site.publications | where: 'category', 'manuscripts' | sort: 'date' | reverse %}
-{% for post in journal_articles %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
-
 ### Preprints
 <ul>
 {% assign preprints = site.publications | where: 'category', 'preprints' | sort: 'date' | reverse %}
@@ -60,10 +52,10 @@ Publications
 {% endfor %}
 </ul>
 
-### Conference Papers
+### Journal Articles
 <ul>
-{% assign conference_papers = site.publications | where: 'category', 'conferences' | sort: 'date' | reverse %}
-{% for post in conference_papers %}
+{% assign journal_articles = site.publications | where: 'category', 'manuscripts' | sort: 'date' | reverse %}
+{% for post in journal_articles %}
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
