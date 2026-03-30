@@ -11,12 +11,18 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign posts_by_year = site.publications | sort: 'date' | reverse | group_by_exp: 'post', "post.date | date: '%Y'" %}
-{% for year in posts_by_year %}
-  <h2>{{ year.name }}</h2>
-  <div style="margin-bottom: 1.5rem; padding-left: 0.8rem; border-left: 3px solid #e5e7eb;">
-    {% for post in year.items %}
-      {% include archive-single.html %}
+{% for category in site.publication_category %}
+  {% assign posts_in_category = site.publications | where: 'category', category[0] | sort: 'date' | reverse %}
+  {% if posts_in_category.size > 0 %}
+    <h2>{{ category[1].title }}</h2>
+    {% assign posts_by_year = posts_in_category | group_by_exp: 'post', "post.date | date: '%Y'" %}
+    {% for year in posts_by_year %}
+      <h3>{{ year.name }}</h3>
+      <div style="margin-bottom: 1.5rem; padding-left: 0.8rem; border-left: 3px solid #e5e7eb;">
+        {% for post in year.items %}
+          {% include archive-single.html %}
+        {% endfor %}
+      </div>
     {% endfor %}
-  </div>
+  {% endif %}
 {% endfor %}
