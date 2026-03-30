@@ -2,6 +2,7 @@
 title: "The detection of Planck-scale physics facilitated by nonlinear quantum optics"
 collection: publications
 permalink: /publication/2025-10-09-detection-of-planck-scale-physics/
+excerpt: "W. Li, C. Zhao, N. Eshaqi-Sani, Z. Jiang, and X. Li"
 date: 2025-10-09
 venue: "arXiv preprint arXiv:2510.07844"
 category: preprints
