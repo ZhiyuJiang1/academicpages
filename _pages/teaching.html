@@ -7,10 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 0.9rem 1.25rem 1.15rem 1.25rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <ul style="margin: 0.2rem 0 0 0; padding-left: 1.35rem;">
-  {% for post in site.teaching reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-  </ul>
-</div>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

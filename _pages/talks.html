@@ -9,14 +9,12 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="{{ '/talkmap.html' | relative_url }}">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 0.9rem 1.25rem 1.15rem 1.25rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
 {% assign talks_by_year = site.talks | sort: 'date' | reverse | group_by_exp: 'post', "post.date | date: '%Y'" %}
 {% for year in talks_by_year %}
-  <h2 style="margin-top: 0.25rem;">{{ year.name }}</h2>
-  <div style="margin-bottom: 1.25rem; padding-left: 0.8rem; border-left: 3px solid #e5e7eb;">
+  <h2>{{ year.name }}</h2>
+  <div style="margin-bottom: 1.5rem; padding-left: 0.8rem; border-left: 3px solid #e5e7eb;">
     {% for post in year.items %}
       {% include archive-single-talk.html %}
     {% endfor %}
   </div>
 {% endfor %}
-</div>
