@@ -16,17 +16,23 @@ I am based in Toyonaka, Osaka, Japan, and originally from Shenyang, China. I wor
 
 ## News
 
-- **2025.07.01**: Appointed as a Specially Appointed Researcher at the Center for Quantum Information and Quantum Biology, The University of Osaka.
-- **2025.05.13**: Attended the Interdisciplinary Symposium on Quantum Information at Northeastern University, Shenyang, China.
-- **2025.05.01**: Appointed as a Research Fellow at the Faculty of Engineering, Hokkaido University.
-- **2025.03.25**: Received the Ph.D. degree from Hokkaido University.
+<ul>
+  {% for item in site.data.news.items limit:5 %}
+    <li><strong>{{ item.date }}</strong>: {{ item.text }}</li>
+  {% endfor %}
+</ul>
 
+{% assign total_news = site.data.news.items | size %}
+{% if total_news > 5 %}
 <details>
   <summary style="cursor:pointer; font-weight: bold; margin-top: 0.5em;">Earlier updates</summary>
   <ul>
-    <li><strong>2024.12.15</strong>: Added the News section.</li>
+    {% for item in site.data.news.items offset:5 %}
+      <li><strong>{{ item.date }}</strong>: {{ item.text }}</li>
+    {% endfor %}
   </ul>
 </details>
+{% endif %}
 
 ## Contact
 
