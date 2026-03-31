@@ -128,16 +128,23 @@ a {
 .list__item a:not(.btn) {
   display: inline-block;
   color: #4b8daa;
-  text-decoration: none;
-  border-bottom: 0;
-  box-shadow: none;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  background-image: none !important;
   cursor: pointer;
   transform: translateY(0);
+  padding: 0 0.02em 0.10em 0.02em;
+  margin: 0 -0.02em -0.10em -0.02em;
 
   &:hover {
     color: #3a7d99;
     cursor: pointer;
     transform: translateY(-1px);
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+    box-shadow: none !important;
+    background-image: none !important;
   }
 }
 
@@ -152,6 +159,7 @@ a {
   border-bottom: 0;
   box-shadow: none;
   text-decoration: none;
+  background-image: none;
 }
 
 /* code */
@@ -298,19 +306,6 @@ svg:not(:root) {
    Navigation lists
    ========================================================================== */
 
-/**
- * Removes margins, padding, and bullet points from navigation lists
- *
- * Example usage:
- * <nav>
- *    <ul>
- *      <li><a href="#link-1">Link 1</a></li>
- *      <li><a href="#link-2">Link 2</a></li>
- *      <li><a href="#link-3">Link 3</a></li>
- *    </ul>
- *  </nav>
- */
-
 nav {
   ul {
     margin: 0;
@@ -325,7 +320,6 @@ nav {
     text-decoration: none;
   }
 
-  /* override white-space for nested lists */
   ul li,
   ol li {
     margin-bottom: 0;
