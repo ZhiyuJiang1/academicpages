@@ -122,6 +122,42 @@ a {
   }
 }
 
+.page__content a:not(.btn):not(.author__avatar),
+.archive a:not(.btn),
+.list__item a:not(.btn) {
+  color: mix(#000, $link-color, 18%);
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 1px;
+  padding-bottom: 0.03em;
+
+  &:hover {
+    color: mix(#000, $link-color-hover, 12%);
+    background-size: 100% 2px;
+  }
+}
+
+.page__content .author__urls a,
+.page__content nav a,
+.archive nav a,
+.masthead a,
+.greedy-nav a,
+.pagination a,
+.btn,
+.social-icons a {
+  background-image: none;
+  text-decoration: none;
+}
+
+.archive__item-title a,
+.page__content h1 a,
+.page__content h2 a,
+.page__content h3 a {
+  background-size: 100% 1.5px;
+}
+
 /* code */
 
 tt, code, kbd, samp, pre {
