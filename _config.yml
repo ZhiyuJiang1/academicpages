@@ -1,7 +1,7 @@
 locale                   : "en-US"
 title                    : "Zhiyu Jiang / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhiyu Jiang, Ph.D."
+name                     : &name "Zhiyu Jiang"
 description              : &description "Academic website of Zhiyu Jiang, theoretical condensed matter physicist."
 url                      : https://zhiyujiang1.github.io
 baseurl                  : "/academicpages"
@@ -9,7 +9,7 @@ repository               : "ZhiyuJiang1/academicpages"
 
 author:
   avatar                 : "Zhiyu Jiang.JPG"
-  name                   : "Zhiyu Jiang"
+  name                   : "Zhiyu Jiang, Ph.D."
   bio                    : "Appointed Researcher<br>Center for Quantum Information and Quantum Biology<br>The University of Osaka"
   location               : "Toyonaka, Osaka, Japan"
   employer               : "The University of Osaka"
