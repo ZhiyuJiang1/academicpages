@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Appointed Researcher in the group of [Prof. Hiroshi Ueda (上田 宏)](https://researchmap.jp/hiroshi_ueda) at the Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka. Within Prof. Ueda's project, ["Quantum-classical fusion mediated by tensor network"](https://www.jst.go.jp/kisoken/crest/project/1111119/1111119_2024.html), I study how tensor-network methods can advance our understanding of quantum many-body phenomena and contribute to the development of quantum computation and quantum algorithms.
+I am currently an Appointed Researcher in the group of [Prof. Hiroshi Ueda](https://researchmap.jp/hiroshi_ueda) at the Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka. Within Prof. Ueda's project, ["Quantum-classical fusion mediated by tensor network"](https://www.jst.go.jp/kisoken/crest/project/1111119/1111119_2024.html), I study how tensor-network methods can advance our understanding of quantum many-body phenomena and contribute to the development of quantum computation and quantum algorithms.
 
-My research interests are in theoretical condensed matter physics, with particular emphasis on open quantum systems, non-Hermitian physics, quantum walks, tensor networks, and topological phases. In my previous work, conducted in collaboration with my doctoral advisor, [Prof. Hideaki Obuse (小布施 秀明)](https://researchmap.jp/hideaki.obuse), I investigated the topological properties of non-Hermitian systems and their simulation through non-unitary quantum walks.
+My research interests are in theoretical condensed matter physics, with particular emphasis on open quantum systems, non-Hermitian physics, quantum walks, tensor networks, and topological phases. In my previous work, conducted in collaboration with my doctoral advisor, [Prof. Hideaki Obuse](https://researchmap.jp/hideaki.obuse), I investigated the topological properties of non-Hermitian systems and their simulation through non-unitary quantum walks.
 
 Based in Toyonaka, Osaka, Japan, and originally from Shenyang, China, I work in English, Chinese, and Japanese, and I welcome academic communication across disciplines and international research communities.
 
