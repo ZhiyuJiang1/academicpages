@@ -16,7 +16,7 @@ Based in Toyonaka, Osaka, Japan, and originally from Shenyang, China, I work in 
 
 <div style="margin: 1.25rem 0 1.8rem 0; padding: 1rem 1.15rem; border-left: 4px solid #5b8def; background: #f8fbff; border-radius: 0 10px 10px 0; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
 <strong style="display:block; margin-bottom:0.2rem;">Research interests</strong>
-Open quantum systems, non-Hermitian physics, quantum walks, tensor networks, and topological phases.
+Open quantum systems, Non-Hermitian physics, Quantum walks, Topological physics, Tensor networks, Quantum algorithms, Quantum computing.
 </div>
 
 ## Latest News
