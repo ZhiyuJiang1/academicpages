@@ -1,7 +1,7 @@
 locale                   : "en-US"
 title                    : "Zhiyu Jiang / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Zhiyu Jiang"
+name                     : &name "Zhiyu Jiang, Ph.D."
 description              : &description "Academic website of Zhiyu Jiang, theoretical condensed matter physicist."
 url                      : https://zhiyujiang1.github.io
 baseurl                  : "/academicpages"
