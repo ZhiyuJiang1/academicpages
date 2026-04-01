@@ -41,17 +41,17 @@ redirect_from:
 <div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
   <div style="display:grid; gap:0.95rem;">
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Ph.D. in Engineering </div>
+      <div style="font-weight:700;">Ph.D. in Engineering (Applied Physics)</div>
       <div>Graduate School of Engineering, Hokkaido University</div>
       <div style="color:#6b7280; font-size:0.95em;">2022.04–2025.03</div>
     </div>
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Master of Science</div>
+      <div style="font-weight:700;">Master of Science in Theoretical Physics</div>
       <div>School of Physics, Dalian University of Technology</div>
       <div style="color:#6b7280; font-size:0.95em;">2018.09–2021.06</div>
     </div>
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Bachelor of Science</div>
+      <div style="font-weight:700;">Bachelor of Science in Applied Physics</div>
       <div>College of Science, Northeastern University (Shenyang)</div>
       <div style="color:#6b7280; font-size:0.95em;">2014.10–2018.06</div>
     </div>
