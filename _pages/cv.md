@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="margin-bottom: 1.5rem; padding: 1.05rem 1.2rem; border-left: 4px solid #5b8def; background: #f8fbff; border-radius: 0 10px 10px 0; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
   <strong style="display:block; margin-bottom:0.2rem;">Curriculum Vitae</strong>
-  Research interests in non-Hermitian physics, quantum walks, tensor networks, and topological phases.
+  Research field in theoretical condensed matter physics, quantum computing and computational many-body physics.
 </div>
 
 ## Research Experience
