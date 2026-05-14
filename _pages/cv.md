@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,8 +10,11 @@ redirect_from:
 {% include base_path %}
 
 <div style="margin-bottom: 1.5rem; padding: 1.05rem 1.2rem; border-left: 4px solid #5b8def; background: #f8fbff; border-radius: 0 10px 10px 0; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <strong style="display:block; margin-bottom:0.2rem;">Research Field</strong>
-   Theoretical Condensed Matter Physics; Computational Physics
+  <strong style="display:block; margin-bottom:0.65rem;">Research Fields</strong>
+  <div style="display:flex; flex-wrap:wrap; gap:0.55rem;">
+    <span style="display:inline-block; padding:0.32rem 0.72rem; border-radius:999px; background:#eaf2ff; border:1px solid #cfe0ff; font-weight:600; color:#1f3f6d;">Theoretical Condensed Matter Physics</span>
+    <span style="display:inline-block; padding:0.32rem 0.72rem; border-radius:999px; background:#eef7f0; border:1px solid #d5ead9; font-weight:600; color:#285b36;">Computational Physics</span>
+  </div>
 </div>
 
 ## Research Experience
@@ -19,13 +22,13 @@ redirect_from:
 <div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
   <div style="display:grid; gap:0.95rem;">
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Appointed Researcher</div>
-      <div>The University of Osaka</div>
+      <div style="font-weight:700;">Specially Appointed Researcher</div>
+      <div>Center for Quantum Information and Quantum Biology, The University of Osaka</div>
       <div style="color:#6b7280; font-size:0.95em;">2025.07–Now</div>
     </div>
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
       <div style="font-weight:700;">Academic Researcher</div>
-      <div>Hokkaido University</div>
+      <div>Faculty of Engineering, Hokkaido University</div>
       <div style="color:#6b7280; font-size:0.95em;">2025.05–2025.06</div>
     </div>
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
