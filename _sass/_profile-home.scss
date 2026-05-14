@@ -1,5 +1,57 @@
 /* Homepage profile components */
 
+.profile-hero {
+  margin: 0.25rem 0 1.75rem;
+  padding: 1.35rem 1.45rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #f8fbff 0%, #ffffff 58%, #fffaf0 100%);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
+}
+
+.profile-hero__name {
+  margin: 0 0 0.2rem;
+  font-size: 1.35em;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  color: #1f2937;
+}
+
+.profile-hero__role {
+  margin-bottom: 0.55rem;
+  color: #4b5563;
+  font-weight: 600;
+}
+
+.profile-hero__fields {
+  margin-bottom: 0.9rem;
+  color: #334155;
+  font-size: 0.95em;
+}
+
+.profile-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.profile-hero__button {
+  display: inline-block;
+  padding: 0.34rem 0.75rem;
+  border: 1px solid #dbe4f0;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #334155;
+  font-size: 0.92em;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.profile-hero__button:hover {
+  background: #f8fafc;
+  text-decoration: none;
+}
+
 .profile-card {
   margin: 0.95rem 0 1.65rem;
   padding: 1.15rem 1.25rem;
@@ -160,6 +212,14 @@
 }
 
 @media (max-width: 520px) {
+  .profile-hero {
+    padding: 1.1rem 1.15rem;
+  }
+
+  .profile-hero__name {
+    font-size: 1.2em;
+  }
+
   .profile-news__item {
     grid-template-columns: 1fr;
     gap: 0.35rem;
