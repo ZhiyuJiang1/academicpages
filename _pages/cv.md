@@ -33,7 +33,7 @@ redirect_from:
     </div>
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
       <div style="font-weight:700;">Research Student</div>
-      <div>Hokkaido University</div>
+      <div>Faculty of Engineering, Hokkaido University</div>
       <div style="color:#6b7280; font-size:0.95em;">2021.10–2022.03</div>
     </div>
   </div>
