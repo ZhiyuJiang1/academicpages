@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Appointed Researcher in the group of [Prof. Hiroshi Ueda](https://researchmap.jp/hiroshi_ueda) at the Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka. Within Prof. Ueda's project, ["Quantum-classical fusion mediated by tensor network"](https://www.jst.go.jp/kisoken/crest/project/1111119/1111119_2024.html), I study how tensor-network methods can advance our understanding of quantum many-body phenomena and contribute to the development of quantum computation and quantum algorithms.
+I am currently a Specially Appointed Researcher in the group of [Prof. Hiroshi Ueda](https://researchmap.jp/hiroshi_ueda) at the Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka. Within Prof. Ueda's project, ["Quantum-classical fusion mediated by tensor network"](https://www.jst.go.jp/kisoken/crest/project/1111119/1111119_2024.html), I study how tensor-network methods can advance our understanding of quantum many-body phenomena and contribute to the development of quantum computation and quantum algorithms.
 
 My research interests are in theoretical condensed matter physics, with particular emphasis on open quantum systems, non-Hermitian physics, quantum walks, tensor networks, and topological phases. In my previous work, conducted in collaboration with my doctoral advisor, [Prof. Hideaki Obuse](https://researchmap.jp/hideaki.obuse), I investigated the topological properties of non-Hermitian systems and their simulation through non-unitary quantum walks.
 
@@ -47,23 +47,23 @@ Open quantum systems, Non-Hermitian physics, Quantum walks, Topological physics,
 ## Links
 
 <div style="margin: 1rem 0 1.8rem 0; padding: 1.2rem 1.25rem 1.3rem 1.25rem; border-top: 1px solid #e5e7eb; border-bottom: 1px solid #e5e7eb; background: linear-gradient(to bottom, rgba(250,250,250,0.65), rgba(255,255,255,0.92));">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.5rem 2.2rem; align-items: start; font-size: 0.97em; line-height: 1.85;">
-    <div>
-      <div style="font-weight: 700; margin-bottom: 0.7rem; letter-spacing: 0.01em; font-size: 1.02em;">Current affiliation</div>
-      <ul style="list-style: none; padding-left: 0; margin: 0;">
-        <li style="margin-bottom: 0.38rem;"><span style="display:inline-block; width: 1.05rem; color:#6b7280;">•</span><a href="https://www.osaka-u.ac.jp/ja">The University of Osaka</a></li>
-        <li style="margin-bottom: 0.38rem;"><span style="display:inline-block; width: 1.05rem; color:#9ca3af;">↳</span><a href="https://qiqb.osaka-u.ac.jp/">Center for Quantum Information and Quantum Biology (QIQB)</a></li>
-      </ul>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(245px, 1fr)); gap: 1.1rem 1.3rem; align-items: stretch; font-size: 0.97em; line-height: 1.7;">
+    <div style="padding: 1rem 1.05rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #ffffff; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
+      <div style="font-weight: 700; margin-bottom: 0.75rem; letter-spacing: 0.01em; font-size: 1.02em;">Current affiliation</div>
+      <div style="display:grid; gap:0.55rem;">
+        <a href="https://www.osaka-u.ac.jp/ja" style="font-weight:600;">The University of Osaka</a>
+        <a href="https://qiqb.osaka-u.ac.jp/" style="padding-left:0.85rem; border-left:3px solid #dbeafe; color:#4b5563;">Center for Quantum Information and Quantum Biology (QIQB)</a>
+      </div>
     </div>
-    <div>
-      <div style="font-weight: 700; margin-bottom: 0.7rem; letter-spacing: 0.01em; font-size: 1.02em;">Academic background</div>
-      <ul style="list-style: none; padding-left: 0; margin: 0;">
-        <li style="margin-bottom: 0.38rem;"><span style="display:inline-block; width: 1.05rem; color:#6b7280;">•</span><a href="https://www.hokudai.ac.jp/">Hokkaido University</a></li>
-        <li style="margin-bottom: 0.38rem;"><span style="display:inline-block; width: 1.05rem; color:#9ca3af;">↳</span><a href="https://www.eng.hokudai.ac.jp/graduate/">Faculty / Graduate School of Engineering</a></li>
-        <li style="margin-bottom: 0.38rem;"><span style="display:inline-block; width: 1.05rem; color:#9ca3af;">↳</span><a href="https://applphys.net/div/">Division of Applied Physics</a></li>
-        <li style="margin-bottom: 0.38rem;"><span style="display:inline-block; width: 1.05rem; color:#d1d5db;">·</span><a href="https://subutu-ap.eng.hokudai.ac.jp/index.html">Laboratory of Condensed Matter Physics</a></li>
-        <li><span style="display:inline-block; width: 1.05rem; color:#d1d5db;">·</span><a href="https://ssp-ap.eng.hokudai.ac.jp/">Laboratory of Solid States Physics</a></li>
-      </ul>
+    <div style="padding: 1rem 1.05rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #ffffff; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
+      <div style="font-weight: 700; margin-bottom: 0.75rem; letter-spacing: 0.01em; font-size: 1.02em;">Academic background</div>
+      <div style="display:grid; gap:0.55rem;">
+        <a href="https://www.hokudai.ac.jp/" style="font-weight:600;">Hokkaido University</a>
+        <a href="https://www.eng.hokudai.ac.jp/graduate/" style="padding-left:0.85rem; border-left:3px solid #e5e7eb; color:#4b5563;">Faculty / Graduate School of Engineering</a>
+        <a href="https://applphys.net/div/" style="padding-left:0.85rem; border-left:3px solid #e5e7eb; color:#4b5563;">Division of Applied Physics</a>
+        <a href="https://subutu-ap.eng.hokudai.ac.jp/index.html" style="padding-left:1.35rem; border-left:3px solid #f3f4f6; color:#6b7280; font-size:0.95em;">Laboratory of Condensed Matter Physics</a>
+        <a href="https://ssp-ap.eng.hokudai.ac.jp/" style="padding-left:1.35rem; border-left:3px solid #f3f4f6; color:#6b7280; font-size:0.95em;">Laboratory of Solid States Physics</a>
+      </div>
     </div>
   </div>
 </div>
