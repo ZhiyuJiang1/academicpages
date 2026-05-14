@@ -12,7 +12,7 @@ redirect_from:
 <div style="margin-bottom: 1.5rem; padding: 1.05rem 1.2rem; border-left: 4px solid #5b8def; background: #f8fbff; border-radius: 0 10px 10px 0; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
   <strong style="display:block; margin-bottom:0.65rem;">Research Fields</strong>
   <div style="display:flex; flex-wrap:wrap; gap:0.55rem;">
-    <span style="display:inline-block; padding:0.32rem 0.72rem; border-radius:999px; background:#eaf2ff; border:1px solid #cfe0ff; font-weight:600; color:#1f3f6d;">Theoretical Condensed Matter Physics</span>
+    <span style="display:inline-block; padding:0.32rem 0.72rem; border-radius:999px; background:#fff1d6; border:1px solid #f2c46d; font-weight:600; color:#6b3d00;">Theoretical Condensed Matter Physics</span>
     <span style="display:inline-block; padding:0.32rem 0.72rem; border-radius:999px; background:#eef7f0; border:1px solid #d5ead9; font-weight:600; color:#285b36;">Computational Physics</span>
   </div>
 </div>
