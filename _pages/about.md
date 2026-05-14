@@ -12,10 +12,6 @@ redirect_from:
   <div class="profile-hero__name">Zhiyu Jiang</div>
   <div class="profile-hero__role">Specially Appointed Researcher · QIQB, The University of Osaka</div>
   <div class="profile-hero__fields">Theoretical Condensed Matter Physics · Computational Physics</div>
-  <div class="profile-hero__actions">
-    <a class="profile-hero__button" href="{{ '/publications/' | relative_url }}">Publications</a>
-    <a class="profile-hero__button" href="{{ '/cv/' | relative_url }}">CV</a>
-  </div>
 </div>
 
 I am currently a Specially Appointed Researcher in the group of [Prof. Hiroshi Ueda](https://researchmap.jp/hiroshi_ueda) at the Center for Quantum Information and Quantum Biology (QIQB), The University of Osaka. Within Prof. Ueda's project, ["Quantum-classical fusion mediated by tensor network"](https://www.jst.go.jp/kisoken/crest/project/1111119/1111119_2024.html), I study how tensor-network methods can advance our understanding of quantum many-body phenomena and contribute to the development of quantum computation and quantum algorithms.
@@ -61,9 +57,7 @@ Based in Toyonaka, Osaka, Japan, and originally from Shenyang, China, I work in 
     </div>
     <div>
       <div class="profile-label">Address</div>
-      <div>Center for Quantum Information and Quantum Biology (QIQB)<br>
-      The University of Osaka<br>
-      Toyonaka Co-Creation Building 707<br>
+      <div>Toyonaka Co-Creation Building 707<br>
       1-2 Machikaneyama-cho<br>
       Toyonaka, Osaka 560-0053, Japan</div>
     </div>
