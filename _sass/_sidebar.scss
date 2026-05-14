@@ -95,19 +95,29 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
     text-align: center;
   }
 
   img {
-    max-width: 175px;
-    border-radius: 14px;
+    display: block;
+    width: 36px;
+    height: 36px;
+    object-fit: cover;
+    border-radius: 10px;
 
     @include breakpoint($large) {
+      width: 100%;
+      max-width: 175px;
+      height: auto;
+      aspect-ratio: 1 / 1;
+      margin: 0 auto;
       padding: 5px;
       border: 1px solid #dbe4f0;
+      border-radius: 14px;
       box-shadow: 0 4px 14px rgba(15, 23, 42, 0.12);
+      background: #ffffff;
     }
   }
 }
