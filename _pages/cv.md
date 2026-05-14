@@ -19,7 +19,7 @@ redirect_from:
 <div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
   <div style="display:grid; gap:0.95rem;">
     <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Appointed Researcher</div>
+      <div style="font-weight:700;">Specially Appointed Researcher</div>
       <div>Center for Quantum Information and Quantum Biology, The University of Osaka</div>
       <div style="color:#6b7280; font-size:0.95em;">2025.07–Now</div>
     </div>
