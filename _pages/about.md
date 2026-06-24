@@ -73,6 +73,7 @@ Based in Toyonaka, Osaka, Japan, and originally from Shenyang, China, I work in 
       <div class="profile-link-list">
         <a class="profile-link-item profile-link-item--primary" href="https://www.osaka-u.ac.jp/ja">The University of Osaka</a>
         <a class="profile-link-item profile-link-item--secondary" href="https://qiqb.osaka-u.ac.jp/">Center for Quantum Information and Quantum Biology (QIQB)</a>
+        <a class="profile-link-item profile-link-item--secondary" href="https://www.ueda-group.qiqb.osaka-u.ac.jp/">Ueda Group</a>
       </div>
     </div>
     <div class="profile-link-card">
