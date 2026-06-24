@@ -63,28 +63,3 @@ Based in Toyonaka, Osaka, Japan, and originally from Shenyang, China, I work in 
     </div>
   </div>
 </div>
-
-## Links
-
-<div class="profile-links-shell">
-  <div class="profile-link-grid">
-    <div class="profile-link-card">
-      <div class="profile-link-card__title">Current affiliation</div>
-      <div class="profile-link-list">
-        <a class="profile-link-item profile-link-item--primary" href="https://www.osaka-u.ac.jp/ja">The University of Osaka</a>
-        <a class="profile-link-item profile-link-item--secondary" href="https://qiqb.osaka-u.ac.jp/">Center for Quantum Information and Quantum Biology (QIQB)</a>
-        <a class="profile-link-item profile-link-item--secondary" href="https://www.ueda-group.qiqb.osaka-u.ac.jp/">Ueda Group</a>
-      </div>
-    </div>
-    <div class="profile-link-card">
-      <div class="profile-link-card__title">Academic background</div>
-      <div class="profile-link-list">
-        <a class="profile-link-item profile-link-item--primary" href="https://www.hokudai.ac.jp/">Hokkaido University</a>
-        <a class="profile-link-item profile-link-item--secondary" href="https://www.eng.hokudai.ac.jp/graduate/">Faculty / Graduate School of Engineering</a>
-        <a class="profile-link-item profile-link-item--secondary" href="https://applphys.net/div/">Division of Applied Physics</a>
-        <a class="profile-link-item profile-link-item--tertiary" href="https://subutu-ap.eng.hokudai.ac.jp/index.html">Laboratory of Condensed Matter Physics</a>
-        <a class="profile-link-item profile-link-item--tertiary" href="https://ssp-ap.eng.hokudai.ac.jp/">Laboratory of Solid States Physics</a>
-      </div>
-    </div>
-  </div>
-</div>
