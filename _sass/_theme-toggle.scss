@@ -1,0 +1,300 @@
+/* Manual light/dark theme toggle */
+
+.theme-toggle-item {
+  display: flex;
+  align-items: center;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.05rem;
+  height: 2.05rem;
+  margin-left: 0.35rem;
+  padding: 0;
+  border: 1px solid #dbe4f0;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #334155;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.theme-toggle:hover {
+  background: #f8fafc;
+}
+
+.theme-toggle__icon {
+  display: none;
+  font-size: 1rem;
+}
+
+.theme-toggle[data-active-theme="light"] .theme-toggle__moon,
+.theme-toggle[data-active-theme="dark"] .theme-toggle__sun {
+  display: inline-block;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+:root[data-theme="dark"] body,
+:root[data-theme="dark"] #main,
+:root[data-theme="dark"] .page,
+:root[data-theme="dark"] .page__content,
+:root[data-theme="dark"] .archive,
+:root[data-theme="dark"] .sidebar,
+:root[data-theme="dark"] .author__content,
+:root[data-theme="dark"] .author__urls-wrapper,
+:root[data-theme="dark"] .initial-content,
+:root[data-theme="dark"] .search-content {
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+:root[data-theme="dark"] .masthead,
+:root[data-theme="dark"] .greedy-nav,
+:root[data-theme="dark"] .greedy-nav .hidden-links,
+:root[data-theme="dark"] .page__footer {
+  background: #111827;
+  border-color: #334155;
+}
+
+:root[data-theme="dark"] .site-title,
+:root[data-theme="dark"] .greedy-nav a,
+:root[data-theme="dark"] .visible-links a,
+:root[data-theme="dark"] .hidden-links a,
+:root[data-theme="dark"] .page__title,
+:root[data-theme="dark"] .page__content h1,
+:root[data-theme="dark"] .page__content h2,
+:root[data-theme="dark"] .page__content h3,
+:root[data-theme="dark"] .page__content h4,
+:root[data-theme="dark"] .archive__item-title,
+:root[data-theme="dark"] .author__name,
+:root[data-theme="dark"] .profile-hero__name,
+:root[data-theme="dark"] .profile-card__title,
+:root[data-theme="dark"] .profile-label,
+:root[data-theme="dark"] .profile-link-card__title,
+:root[data-theme="dark"] .link-directory__title {
+  color: #f8fafc;
+}
+
+:root[data-theme="dark"] .page__content,
+:root[data-theme="dark"] .page__meta,
+:root[data-theme="dark"] .archive__item-excerpt,
+:root[data-theme="dark"] .author__bio,
+:root[data-theme="dark"] .profile-hero__role,
+:root[data-theme="dark"] .profile-hero__fields,
+:root[data-theme="dark"] .profile-news__text,
+:root[data-theme="dark"] .profile-badge,
+:root[data-theme="dark"] .profile-link-item--secondary,
+:root[data-theme="dark"] .profile-link-item--tertiary,
+:root[data-theme="dark"] .link-directory__list li {
+  color: #cbd5e1;
+}
+
+:root[data-theme="dark"] a,
+:root[data-theme="dark"] .page__content a,
+:root[data-theme="dark"] .archive__item-title a,
+:root[data-theme="dark"] .author__urls a,
+:root[data-theme="dark"] .profile-card__footer-link,
+:root[data-theme="dark"] .link-directory__list a {
+  color: #93c5fd;
+}
+
+:root[data-theme="dark"] a:hover,
+:root[data-theme="dark"] .page__content a:hover,
+:root[data-theme="dark"] .greedy-nav a:hover {
+  color: #bfdbfe;
+}
+
+:root[data-theme="dark"] .profile-hero,
+:root[data-theme="dark"] .profile-card,
+:root[data-theme="dark"] .profile-link-card,
+:root[data-theme="dark"] .notice,
+:root[data-theme="dark"] .notice--info,
+:root[data-theme="dark"] .notice--primary,
+:root[data-theme="dark"] .cv-highlight,
+:root[data-theme="dark"] .cv-card,
+:root[data-theme="dark"] .sidebar > div[itemscope] {
+  background: #1e293b !important;
+  border-color: #334155 !important;
+  color: #cbd5e1;
+  box-shadow: none !important;
+}
+
+:root[data-theme="dark"] .profile-card--accent,
+:root[data-theme="dark"] .cv-highlight {
+  border-left-color: #60a5fa !important;
+}
+
+:root[data-theme="dark"] .profile-badge,
+:root[data-theme="dark"] .profile-news__date,
+:root[data-theme="dark"] .profile-hero__button,
+:root[data-theme="dark"] .theme-toggle {
+  background: #0f172a;
+  border-color: #334155;
+  color: #dbeafe;
+}
+
+:root[data-theme="dark"] .theme-toggle:hover,
+:root[data-theme="dark"] .profile-link-item:hover,
+:root[data-theme="dark"] .author__urls a:hover {
+  background: #243047;
+}
+
+:root[data-theme="dark"] .author__avatar {
+  background: #0f172a !important;
+  border-color: #334155 !important;
+  box-shadow: none !important;
+}
+
+:root[data-theme="dark"] .author__avatar img {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+:root[data-theme="dark"] .sidebar .author__bio,
+:root[data-theme="dark"] .cv-item {
+  border-left-color: #60a5fa !important;
+}
+
+:root[data-theme="dark"] .cv-highlight__title,
+:root[data-theme="dark"] .cv-section-title,
+:root[data-theme="dark"] .cv-item__title {
+  color: #f8fafc;
+}
+
+:root[data-theme="dark"] .cv-item__meta {
+  color: #94a3b8;
+}
+
+:root[data-theme="dark"] .cv-badge--theory {
+  border-color: #92400e;
+  background: #422006;
+  color: #fde68a;
+}
+
+:root[data-theme="dark"] .cv-badge--computational {
+  border-color: #166534;
+  background: #052e16;
+  color: #bbf7d0;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  background: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="light"] body,
+  :root[data-theme="light"] #main,
+  :root[data-theme="light"] .page,
+  :root[data-theme="light"] .page__content,
+  :root[data-theme="light"] .archive,
+  :root[data-theme="light"] .sidebar,
+  :root[data-theme="light"] .author__content,
+  :root[data-theme="light"] .author__urls-wrapper,
+  :root[data-theme="light"] .initial-content,
+  :root[data-theme="light"] .search-content {
+    background: #ffffff;
+    color: #494e52;
+  }
+
+  :root[data-theme="light"] .masthead,
+  :root[data-theme="light"] .greedy-nav,
+  :root[data-theme="light"] .page__footer {
+    background: #ffffff;
+    border-color: #f2f3f3;
+  }
+
+  :root[data-theme="light"] .site-title,
+  :root[data-theme="light"] .greedy-nav a,
+  :root[data-theme="light"] .visible-links a,
+  :root[data-theme="light"] .hidden-links a,
+  :root[data-theme="light"] .page__title,
+  :root[data-theme="light"] .page__content h1,
+  :root[data-theme="light"] .page__content h2,
+  :root[data-theme="light"] .page__content h3,
+  :root[data-theme="light"] .page__content h4,
+  :root[data-theme="light"] .archive__item-title,
+  :root[data-theme="light"] .author__name,
+  :root[data-theme="light"] .profile-hero__name,
+  :root[data-theme="light"] .profile-card__title,
+  :root[data-theme="light"] .profile-label,
+  :root[data-theme="light"] .link-directory__title {
+    color: #1f2937;
+  }
+
+  :root[data-theme="light"] a,
+  :root[data-theme="light"] .page__content a,
+  :root[data-theme="light"] .archive__item-title a,
+  :root[data-theme="light"] .author__urls a,
+  :root[data-theme="light"] .profile-card__footer-link,
+  :root[data-theme="light"] .link-directory__list a {
+    color: #2563eb;
+  }
+
+  :root[data-theme="light"] .profile-hero,
+  :root[data-theme="light"] .profile-card,
+  :root[data-theme="light"] .profile-link-card,
+  :root[data-theme="light"] .cv-card {
+    background: #ffffff !important;
+    border-color: #e5e7eb !important;
+    color: #494e52;
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.05) !important;
+  }
+
+  :root[data-theme="light"] .cv-highlight {
+    background: #f8fbff !important;
+    border-color: #e5e7eb !important;
+    border-left-color: #5b8def !important;
+    color: #494e52;
+  }
+
+  :root[data-theme="light"] .sidebar > div[itemscope] {
+    background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%) !important;
+    border-color: #e5e7eb !important;
+    box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06) !important;
+  }
+
+  :root[data-theme="light"] .author__avatar {
+    background: #ffffff !important;
+    border-color: #dbe4f0 !important;
+    box-shadow: 0 4px 14px rgba(15, 23, 42, 0.12) !important;
+  }
+
+  :root[data-theme="light"] .sidebar .author__bio {
+    border-left-color: #bfdbfe !important;
+    color: #4b5563 !important;
+  }
+
+  :root[data-theme="light"] .cv-item {
+    border-left-color: #e5e7eb !important;
+  }
+
+  :root[data-theme="light"] .cv-item__meta {
+    color: #6b7280;
+  }
+
+  :root[data-theme="light"] .cv-badge--theory {
+    border-color: #f2c46d;
+    background: #fff1d6;
+    color: #6b3d00;
+  }
+
+  :root[data-theme="light"] .cv-badge--computational {
+    border-color: #d5ead9;
+    background: #eef7f0;
+    color: #285b36;
+  }
+
+  :root[data-theme="light"] .theme-toggle {
+    background: #ffffff;
+    border-color: #dbe4f0;
+    color: #334155;
+  }
+}
