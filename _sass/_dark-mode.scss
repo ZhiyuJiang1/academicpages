@@ -165,4 +165,38 @@
   hr {
     border-color: #334155;
   }
+
+  /* CV page inline block fixes */
+  .page__content div[style*="background: #fcfcfd"],
+  .page__content div[style*="background:#fcfcfd"],
+  .page__content div[style*="background: #f8fbff"],
+  .page__content div[style*="background:#f8fbff"] {
+    background: #1e293b !important;
+    border-color: #334155 !important;
+    box-shadow: none !important;
+  }
+
+  .page__content div[style*="border-left:3px solid #e5e7eb"],
+  .page__content div[style*="border-left: 3px solid #e5e7eb"] {
+    border-left-color: #60a5fa !important;
+  }
+
+  .page__content div[style*="color:#6b7280"],
+  .page__content div[style*="color: #6b7280"] {
+    color: #94a3b8 !important;
+  }
+
+  .page__content span[style*="background:#fff1d6"],
+  .page__content span[style*="background: #fff1d6"] {
+    background: #422006 !important;
+    border-color: #92400e !important;
+    color: #fde68a !important;
+  }
+
+  .page__content span[style*="background:#eef7f0"],
+  .page__content span[style*="background: #eef7f0"] {
+    background: #052e16 !important;
+    border-color: #166534 !important;
+    color: #bbf7d0 !important;
+  }
 }
