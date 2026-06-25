@@ -1,0 +1,44 @@
+/* Sidebar dark mode fixes */
+
+@media (prefers-color-scheme: dark) {
+  .sidebar > div[itemscope] {
+    background: #1e293b !important;
+    border-color: #334155 !important;
+    box-shadow: none !important;
+  }
+
+  .author__avatar {
+    background: #0f172a !important;
+    border-color: #334155 !important;
+    box-shadow: none !important;
+  }
+
+  .author__avatar img {
+    background: transparent !important;
+    border-color: #334155 !important;
+    box-shadow: none !important;
+  }
+
+  .sidebar .author__bio {
+    border-left-color: #60a5fa !important;
+    color: #cbd5e1 !important;
+  }
+
+  .author__urls {
+    background: #1e293b !important;
+    border-color: #334155 !important;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35) !important;
+  }
+
+  .author__urls:before {
+    border-color: #334155 transparent !important;
+  }
+
+  .author__urls:after {
+    border-color: #1e293b transparent !important;
+  }
+
+  .author__urls a:hover {
+    background: #243047 !important;
+  }
+}
