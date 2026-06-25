@@ -1,0 +1,168 @@
+/* Automatic dark mode */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+
+  html,
+  body,
+  #main {
+    background: #0f172a;
+    color: #e5e7eb;
+  }
+
+  body,
+  .page,
+  .page__content,
+  .archive,
+  .sidebar,
+  .author__content,
+  .author__urls-wrapper,
+  .initial-content,
+  .search-content {
+    background: #0f172a;
+    color: #e5e7eb;
+  }
+
+  .masthead,
+  .greedy-nav,
+  .greedy-nav .hidden-links,
+  .page__footer {
+    background: #111827;
+    border-color: #334155;
+  }
+
+  .site-title,
+  .greedy-nav a,
+  .visible-links a,
+  .hidden-links a,
+  .page__title,
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .page__content h4,
+  .archive__item-title,
+  .author__name,
+  .profile-hero__name,
+  .profile-card__title,
+  .profile-label,
+  .profile-link-card__title,
+  .link-directory__title {
+    color: #f8fafc;
+  }
+
+  .page__content,
+  .page__meta,
+  .archive__item-excerpt,
+  .author__bio,
+  .profile-hero__role,
+  .profile-hero__fields,
+  .profile-news__text,
+  .profile-badge,
+  .profile-link-item--secondary,
+  .profile-link-item--tertiary,
+  .link-directory__list li {
+    color: #cbd5e1;
+  }
+
+  a,
+  .page__content a,
+  .archive__item-title a,
+  .author__urls a,
+  .profile-card__footer-link,
+  .link-directory__list a {
+    color: #93c5fd;
+  }
+
+  a:visited,
+  .page__content a:visited {
+    color: #c4b5fd;
+  }
+
+  a:hover,
+  .page__content a:hover,
+  .greedy-nav a:hover {
+    color: #bfdbfe;
+  }
+
+  .profile-hero,
+  .profile-card,
+  .profile-link-card,
+  .notice,
+  .notice--info,
+  .notice--primary {
+    background: #1e293b;
+    border-color: #334155;
+    box-shadow: none;
+  }
+
+  .profile-card--soft,
+  .profile-card--accent {
+    background: #1e293b;
+  }
+
+  .profile-card--accent {
+    border-left-color: #60a5fa;
+  }
+
+  .profile-badge,
+  .profile-news__date,
+  .profile-hero__button {
+    background: #0f172a;
+    border-color: #334155;
+    color: #dbeafe;
+  }
+
+  .profile-hero__button--primary {
+    background: #2563eb;
+    border-color: #3b82f6;
+    color: #ffffff;
+  }
+
+  .profile-link-item:hover {
+    background: #243047;
+  }
+
+  .profile-links-shell,
+  .link-directory,
+  .link-directory__group {
+    background: transparent;
+    border-color: #334155;
+  }
+
+  .author__avatar img {
+    background: #1e293b;
+    border-color: #334155;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+  }
+
+  table,
+  thead,
+  tbody,
+  tr,
+  th,
+  td {
+    border-color: #334155;
+  }
+
+  th {
+    background: #1e293b;
+    color: #f8fafc;
+  }
+
+  td {
+    background: #0f172a;
+    color: #e5e7eb;
+  }
+
+  code,
+  pre {
+    background: #111827;
+    color: #e5e7eb;
+  }
+
+  hr {
+    border-color: #334155;
+  }
+}
