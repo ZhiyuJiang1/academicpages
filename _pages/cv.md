@@ -9,102 +9,102 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="margin-bottom: 1.5rem; padding: 1.05rem 1.2rem; border-left: 4px solid #5b8def; background: #f8fbff; border-radius: 0 10px 10px 0; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <strong style="display:block; margin-bottom:0.65rem;">Research Fields</strong>
-  <div style="display:flex; flex-wrap:wrap; gap:0.55rem;">
-    <span style="display:inline-block; padding:0.32rem 0.72rem; border-radius:999px; background:#fff1d6; border:1px solid #f2c46d; font-weight:600; color:#6b3d00;">Theoretical Condensed Matter Physics</span>
-    <span style="display:inline-block; padding:0.32rem 0.72rem; border-radius:999px; background:#eef7f0; border:1px solid #d5ead9; font-weight:600; color:#285b36;">Computational Physics</span>
+<div class="cv-highlight">
+  <strong class="cv-highlight__title">Research Fields</strong>
+  <div class="cv-badge-row">
+    <span class="cv-badge cv-badge--theory">Theoretical Condensed Matter Physics</span>
+    <span class="cv-badge cv-badge--computational">Computational Physics</span>
   </div>
 </div>
 
 ## Research Experience
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <div style="display:grid; gap:0.95rem;">
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Specially Appointed Researcher</div>
+<div class="cv-card">
+  <div class="cv-stack">
+    <div class="cv-item">
+      <div class="cv-item__title">Specially Appointed Researcher</div>
       <div>Center for Quantum Information and Quantum Biology, The University of Osaka</div>
-      <div style="color:#6b7280; font-size:0.95em;">2025.07–Now</div>
+      <div class="cv-item__meta">2025.07–Now</div>
     </div>
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Academic Researcher</div>
+    <div class="cv-item">
+      <div class="cv-item__title">Academic Researcher</div>
       <div>Faculty of Engineering, Hokkaido University</div>
-      <div style="color:#6b7280; font-size:0.95em;">2025.05–2025.06</div>
+      <div class="cv-item__meta">2025.05–2025.06</div>
     </div>
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Research Student</div>
+    <div class="cv-item">
+      <div class="cv-item__title">Research Student</div>
       <div>Faculty of Engineering, Hokkaido University</div>
-      <div style="color:#6b7280; font-size:0.95em;">2021.10–2022.03</div>
+      <div class="cv-item__meta">2021.10–2022.03</div>
     </div>
   </div>
 </div>
 
 ## Education
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <div style="display:grid; gap:0.95rem;">
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Ph.D. in Engineering (Applied Physics)</div>
+<div class="cv-card">
+  <div class="cv-stack">
+    <div class="cv-item">
+      <div class="cv-item__title">Ph.D. in Engineering (Applied Physics)</div>
       <div>Graduate School of Engineering, Hokkaido University</div>
-      <div style="color:#6b7280; font-size:0.95em;">2022.04–2025.03</div>
+      <div class="cv-item__meta">2022.04–2025.03</div>
     </div>
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Master of Science in Theoretical Physics</div>
+    <div class="cv-item">
+      <div class="cv-item__title">Master of Science in Theoretical Physics</div>
       <div>School of Physics, Dalian University of Technology</div>
-      <div style="color:#6b7280; font-size:0.95em;">2018.09–2021.06</div>
+      <div class="cv-item__meta">2018.09–2021.06</div>
     </div>
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Bachelor of Science in Applied Physics</div>
+    <div class="cv-item">
+      <div class="cv-item__title">Bachelor of Science in Applied Physics</div>
       <div>College of Science, Northeastern University (Shenyang)</div>
-      <div style="color:#6b7280; font-size:0.95em;">2014.10–2018.06</div>
+      <div class="cv-item__meta">2014.10–2018.06</div>
     </div>
   </div>
 </div>
 
 ## Awards and Scholarships
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <div style="display:grid; gap:0.95rem;">
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Third Prize in Poster Presentation at QuIST-VIII Conference</div>
+<div class="cv-card">
+  <div class="cv-stack">
+    <div class="cv-item">
+      <div class="cv-item__title">Third Prize in Poster Presentation at QuIST-VIII Conference</div>
       <div>QuIST-VIII Organizing Committee</div>
-      <div style="color:#6b7280; font-size:0.95em;">August 2024</div>
+      <div class="cv-item__meta">August 2024</div>
     </div>
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Hokkaido University EXEX Doctoral Fellowship</div>
+    <div class="cv-item">
+      <div class="cv-item__title">Hokkaido University EXEX Doctoral Fellowship</div>
       <div>Hokkaido University</div>
-      <div style="color:#6b7280; font-size:0.95em;">April 2024 – March 2025</div>
+      <div class="cv-item__meta">April 2024 – March 2025</div>
     </div>
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">
-      <div style="font-weight:700;">Hokkaido University DX Doctoral Fellowship</div>
+    <div class="cv-item">
+      <div class="cv-item__title">Hokkaido University DX Doctoral Fellowship</div>
       <div>Hokkaido University</div>
-      <div style="color:#6b7280; font-size:0.95em;">April 2022 – March 2024</div>
+      <div class="cv-item__meta">April 2022 – March 2024</div>
     </div>
   </div>
 </div>
 
 ## Skills
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <div style="display:grid; gap:0.6rem;">
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">TOEIC Certified (Competent in Workplace English)</div>
-    <div style="padding-left:0.95rem; border-left:3px solid #e5e7eb;">Japanese-Language Proficiency Test (JLPT) N2 Level</div>
+<div class="cv-card">
+  <div class="cv-stack cv-stack--compact">
+    <div class="cv-item">TOEIC Certified (Competent in Workplace English)</div>
+    <div class="cv-item">Japanese-Language Proficiency Test (JLPT) N2 Level</div>
   </div>
 </div>
 
 ## Publications
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-  <div style="font-weight:700; margin-bottom:0.65rem;">Preprints</div>
-  <ul style="margin-top:0; margin-bottom:1rem;">
+<div class="cv-card">
+  <div class="cv-section-title">Preprints</div>
+  <ul class="cv-list">
   {% assign preprints = site.publications | where: 'category', 'preprints' | sort: 'date' | reverse %}
   {% for post in preprints %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
 
-  <div style="font-weight:700; margin-bottom:0.65rem; margin-top:1rem;">Journal Articles</div>
-  <ul style="margin-top:0; margin-bottom:0;">
+  <div class="cv-section-title cv-section-title--spaced">Journal Articles</div>
+  <ul class="cv-list cv-list--last">
   {% assign journal_articles = site.publications | where: 'category', 'manuscripts' | sort: 'date' | reverse %}
   {% for post in journal_articles %}
     {% include archive-single-cv.html %}
@@ -114,16 +114,16 @@ redirect_from:
 
 ## Talks
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 0.72rem 1.3rem 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-<ul style="margin:0 0 0 0;">{% for post in site.talks reversed %}
+<div class="cv-card cv-card--list">
+<ul class="cv-list cv-list--last">{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html  %}
 {% endfor %}</ul>
 </div>
 
 ## Teaching
 
-<div style="margin: 0.9rem 0 1.5rem 0; padding: 0.72rem 1.3rem 1.15rem 1.3rem; border: 1px solid #e5e7eb; border-radius: 12px; background: #fcfcfd; box-shadow: 0 1px 2px rgba(0,0,0,0.03);">
-<ul style="margin:0 0 0 0;">{% for post in site.teaching reversed %}
+<div class="cv-card cv-card--list">
+<ul class="cv-list cv-list--last">{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 </div>
