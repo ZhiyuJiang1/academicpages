@@ -1,8 +1,22 @@
 /* Manual light/dark theme toggle */
 
-.theme-toggle-item {
+.masthead__menu--with-toggle {
   display: flex;
   align-items: center;
+  gap: 0.55rem;
+  width: 100%;
+}
+
+.masthead__menu--with-toggle .greedy-nav {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.masthead-theme-toggle {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
 }
 
 .theme-toggle {
@@ -11,7 +25,6 @@
   justify-content: center;
   width: 2.05rem;
   height: 2.05rem;
-  margin-left: 0.35rem;
   padding: 0;
   border: 1px solid #dbe4f0;
   border-radius: 999px;
