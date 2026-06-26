@@ -20,9 +20,19 @@
     return storedTheme() || systemTheme();
   }
 
+  function clearStoredTheme() {
+    try {
+      localStorage.removeItem(storageKey);
+    } catch (error) {}
+  }
+
   function setStoredTheme(theme) {
     try {
-      localStorage.setItem(storageKey, theme);
+      if (theme === systemTheme()) {
+        localStorage.removeItem(storageKey);
+      } else {
+        localStorage.setItem(storageKey, theme);
+      }
     } catch (error) {}
   }
 
@@ -36,7 +46,7 @@
     if (!toggle) return;
 
     toggle.setAttribute('data-active-theme', theme);
-    toggle.setAttribute('aria-pressed', theme === 'dark' ? 'true' : 'false');
+    toggle.setAttribute('aria-pressed', storedTheme() ? 'true' : 'false');
     toggle.setAttribute('title', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
   }
 
@@ -46,6 +56,10 @@
   }
 
   document.addEventListener('DOMContentLoaded', function() {
+    if (storedTheme() === systemTheme()) {
+      clearStoredTheme();
+    }
+
     syncTheme();
 
     var toggle = document.querySelector('.theme-toggle');
@@ -54,8 +68,7 @@
     toggle.addEventListener('click', function() {
       var nextTheme = activeTheme() === 'dark' ? 'light' : 'dark';
       setStoredTheme(nextTheme);
-      applyTheme(nextTheme);
-      updateToggle();
+      syncTheme();
     });
   });
 
