@@ -20,6 +20,12 @@
     try {
       var storedTheme = localStorage.getItem('site-theme');
       var systemTheme = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+
+      if (storedTheme === systemTheme) {
+        localStorage.removeItem('site-theme');
+        storedTheme = null;
+      }
+
       var theme = storedTheme === 'light' || storedTheme === 'dark' ? storedTheme : systemTheme;
       document.documentElement.setAttribute('data-theme', theme);
     } catch (error) {
