@@ -1,8 +1,8 @@
 items:
   - date: "2026.06.22"
-    text: "Our new preprint on tensor-network isometrization is available on arXiv."
+    text: "Our new preprint on tensor-network isometrization, titled “Isometrization of Tensor Network States via Gauge Propagation”, is available on arXiv."
   - date: "2026.05.20"
-    text: "Our paper on nonlinear quantum optics was published in Physical Review A."
+    text: "Our paper on nonlinear quantum optics, titled “Detection of Planck-scale physics facilitated by nonlinear quantum optics”, was published in Physical Review A."
   - date: "2026.03.30"
     text: "Gave a talk at “TNの媒介する量子・古典融合研究集会” in Osaka, Japan."
   - date: "2025.10.21"
