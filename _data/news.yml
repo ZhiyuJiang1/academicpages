@@ -1,4 +1,6 @@
 items:
+  - date: "2026.07.12"
+    text: "Gave a talk titled “Isometrization of Tensor Network States via Gauge Propagation” at The 13th TCCT Quantum Control Workshop in Shenyang, China."
   - date: "2026.06.22"
     text: "Our new preprint on tensor-network isometrization, titled “Isometrization of Tensor Network States via Gauge Propagation”, is available on arXiv."
   - date: "2026.05.20"
