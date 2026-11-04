@@ -1,4 +1,6 @@
 items:
+  - date: "2026.09.14"
+    text: "Gave a talk titled “ゲージ伝搬によるテンソルネットワーク状態のアイソメトリ化” at the 81st Annual Meeting of the Physical Society of Japan in Tokyo, Japan."
   - date: "2026.08.29"
     text: "Gave a talk titled “Isometrization of Tensor Network States via Gauge Propagation” at 第22回量子スピン系研究会 in Awaji island, Japan."
   - date: "2026.08.25"
